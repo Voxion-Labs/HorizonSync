@@ -297,29 +297,15 @@ Potential future expansion areas:
 - activity audit logs
 - organization-level settings and billing
 
-## Author
+---
 
-<p align="center">
-  <img src="public/author/rudranarayan-jena.jpg" alt="Rudranarayan Jena" width="150" />
-</p>
+<br>
+<div align="right">
+  <b>Rudranarayan Jena</b><br>
+  <i>Founder @ Voxion Labs</i>
+</div>
 
-<p align="center">
-  <strong>Crafted by MR. Rudranarayan Jena</strong>
-</p>
-
-<p align="center">
-   <strong>Founder @Voxion Labs</strong>
-</p>
-
-<p align="center">
-  Product builder, Full-stack Developer, AI Enthuiast and the creator behind HorizonSync.
-  
-</p>
-
-<p align="center">
-Focused on building polished developer products, real-world web applications, and modern AI-assisted workflows.
-</p>
-
-<p align="center">
-  <a href="https://github.com/liambrooks-lab">Author's GitHub</a>
-</p>
+---
+<div align="center">
+  (c) 2026 Voxion Labs & Rudranarayan Jena
+</div>
